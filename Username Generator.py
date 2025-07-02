@@ -7,7 +7,6 @@ while True :
         p = x.split (" ")
         p1 = p [0]
         p2 = p [1] 
-        print (p1)
         y = ["@", "_", "+", ",", "&", "%"]
         z = random.randint (1,10)
 
